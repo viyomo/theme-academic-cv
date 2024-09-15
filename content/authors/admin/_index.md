@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Vivian Yorojo Moreno
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Vivian
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Científica Técnica
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
