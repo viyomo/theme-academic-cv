@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Científica Técnica
+role: Técnica científica
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
